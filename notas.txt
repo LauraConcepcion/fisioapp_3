@@ -1,4 +1,7 @@
-﻿Notas sobre el proyecto FISIOAPP
+﻿pruebassss
+
+
+Notas sobre el proyecto FISIOAPP
 Instalamos las gemas necesarias:
 - Compass https://github.com/Compass/compass-rails
 - jquery-rails, para tener jquery en nuestro proyecto
