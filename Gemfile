@@ -21,7 +21,25 @@ group :assets do
   gem 'compass-rails'
 end
 
+gem 'saas'
 gem 'jquery-rails'
+gem 'chosen-rails'
+#gem 'devise'
+gem 'haml-rails'
+gem 'kaminari'
+gem 'simple_form'
+gem 'show_for'
+gem 'inherited_resources'
+#gem 'cancan'
+gem 'cocoon'
+gem 'ransack'
+gem 'rein'
+gem 'aasm'
+gem 'combined_time_select'
+gem 'active_hash'
+
+
+
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
@@ -37,3 +55,19 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+#
+group :development do
+  gem 'rspec-rails', '~>2.8.0'
+  gem 'debugger'
+end
+group :test do
+  gem 'turn', :require => false
+  gem 'delorean'
+  gem 'capybara'
+  gem 'factory_girl_rails'
+  gem 'shoulda-matchers'
+  gem 'rspec-rails', '~>2.8.0'
+  gem 'debugger'
+end
+
+
