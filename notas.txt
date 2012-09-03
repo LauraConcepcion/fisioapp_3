@@ -14,4 +14,5 @@ Instalamos las gemas necesarias:
 - gem 'rein', Database constraints made easy for ActiveRecord
 - gem 'aasm', para crear una máquina de estados, de momento no se instala.
 - gem 'combined_time_select', para inslar un calendario de google de 12 horas.
+
 - gem 'active_hash', ActiveHash is a simple base class that allows you to use a ruby hash as a readonly datasource for an ActiveRecord-like model.
