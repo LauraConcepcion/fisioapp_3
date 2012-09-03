@@ -1,4 +1,4 @@
-Notas sobre el proyecto FISIOAPP
+﻿Notas sobre el proyecto FISIOAPP
 Instalamos las gemas necesarias:
 - Compass https://github.com/Compass/compass-rails
 - jquery-rails, para tener jquery en nuestro proyecto
@@ -16,3 +16,4 @@ Instalamos las gemas necesarias:
 - gem 'combined_time_select', para inslar un calendario de google de 12 horas.
 
 - gem 'active_hash', ActiveHash is a simple base class that allows you to use a ruby hash as a readonly datasource for an ActiveRecord-like model.
+modificacion de algo
